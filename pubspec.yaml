@@ -1,0 +1,4 @@
+name: stub_verifier
+
+dependencies:
+  json_schema: "^1.0.6"
